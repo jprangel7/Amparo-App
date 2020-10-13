@@ -26,8 +26,8 @@ export default {
 button {
   display: inline-block;
   border: none;
-  background: #07d400;
-  color: #fff;
+  background: #147875 !important;
+  color: #fff !important;
   padding: 10px 20px;
   cursor: pointer;
   margin-left: 10px;
@@ -37,6 +37,14 @@ button {
 }
 
 button:hover {
-  background: #05A900;
+  background: #093635 !important;
+}
+
+.input {
+  height: 40px;
+  border: 1px solid #848484;
+  border-radius: 3px;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
 }
 </style>
