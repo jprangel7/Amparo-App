@@ -63,6 +63,9 @@ export default {
 .modal-title {
   font-size: 20px;
   padding: 15px;
+  background-color: #093635;
+  color: #fff;
+  margin-bottom: 20px;
 }
 
 .close {
